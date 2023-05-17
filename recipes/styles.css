@@ -1,0 +1,40 @@
+h1 {
+    background-color: rgb(236,23,144);
+    color: white;
+    width: 30%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+li,p {
+    margin: 15px;
+    font-size: 20px;
+    color: blue;
+}
+
+#heading1 {
+    background-color: rgb(236,23,144);
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#head2 {
+    background-color: rgb(236,23,144);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 40%;
+}
+
+a {
+    color: rgb(220, 0, 0);
+    font-size:20px;
+}
+
+#img {
+    margin: 0% 25%;
+}
