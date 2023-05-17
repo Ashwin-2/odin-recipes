@@ -1,5 +1,5 @@
 # odin-recipes
-My-first-project-on-the-odin-project
+Made-changes-using-basic-css
 
-In the project I have made total 4 web pages.The pages shows the recipes and images. I have learned about the structure of html then various tags like paragraph tag, image tag, order and unoder list, Heading tags and link tag. I have made the pages and link them to the index page.
-From the index page we can visit the different recipe pages and we can come back to index page by the links to the index page (as the name 'All Recipe page').
+I have added a external css to files and link them. I have used basics of css and applied to the pages.
+like adding background color, text size and etc.
